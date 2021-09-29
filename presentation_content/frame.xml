@@ -9,7 +9,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="index" />
+              <option name="title_text" value="Welcome" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -33,9 +33,9 @@
               <option name="time_format" value="totalelapsed" />
             </options>
           </option>
-          <option name="info_enabled" value="false">
+          <option name="info_enabled" value="true">
             <options>
-              <option name="default" value="default" />
+              <option name="default" value="4TrHBI1n8eE" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -70,6 +70,13 @@
           <option name="pauseplay" value="true" />
           <option name="enableKeyboardShortcuts" value="true" />
           <option name="elapsedandtotaltime" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+          <option name="use_fixed_output_size" value="true" />
+          <option name="output_size_scale_percent" value="100" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1084,4 +1091,9 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
   <transcript_data />
   <glossary_data />
+  <presenters>
+    <presenter id="4TrHBI1n8eE" photo="" mobilephoto="" name="Matthew Thurmaier" title="Principal" email="matt@compclass.com" biotext="">
+      <bioHtml />
+    </presenter>
+  </presenters>
 </bwFrame>
